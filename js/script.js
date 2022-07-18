@@ -7,7 +7,7 @@ function getInputValue(inputId) {
 
 // addEventListener on button
 document.getElementById("calculate-btn").addEventListener("click", function () {
-  // console.log("test");
+ 
   // call function
   const foodInputText = getInputValue("food-input");
   const rentInputText = getInputValue("rent-input");
