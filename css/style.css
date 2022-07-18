@@ -1,0 +1,47 @@
+/* calculate button */
+#calculate-btn {
+  margin-left: 150px;
+}
+
+#add-margin {
+  margin-top: 40px;
+}
+/* save button */
+#save-btn {
+  margin-top: 20px;
+}
+/* expenses input */
+#food-input {
+  margin-left: 17px;
+}
+#rent-input {
+  margin-left: 22px;
+}
+
+#calculate-section {
+  background-color: cornsilk;
+}
+#income-field {
+  margin-left: 200px;
+  margin-top: 20px;
+}
+/* expenses input */
+#food-blog {
+  margin-left: 20px;
+}
+#income-blog {
+  margin-left: 20px;
+}
+#cloth-blog {
+  margin-left: 20px;
+}
+#expences-blog {
+  margin-left: 150px;
+}
+#rent-blog {
+  margin-left: 20px;
+}
+/* saving amount section */
+.fw-bold {
+  margin-left: 20px;
+}
