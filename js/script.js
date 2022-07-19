@@ -8,7 +8,6 @@ function getInputValue(inputId) {
 // addEventListener on button
 document.getElementById("calculate-btn").addEventListener("click", function () {
  
-  // call function
   const foodInputText = getInputValue("food-input");
   const rentInputText = getInputValue("rent-input");
   const clothesInputText = getInputValue("clothes-input");
